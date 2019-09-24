@@ -2,19 +2,8 @@
 # -*- coding: utf-8 -*-
 from __future__ import division
 """
-Created on Tue Apr 30 22:37:26 2019
-
 @author: shevijain
 """
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 24 18:55:13 2019
-
-@author: shevijain
-"""
-
 import math 
 import copy
 final=[]
